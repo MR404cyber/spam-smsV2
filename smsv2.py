@@ -21,16 +21,11 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
- 
-%sAuthor by %sMR.404%s
-%swhatshapp %s082331072836%s
-%sTeam %sAnonymous%s
- 
-__  __ ___    ___                                    
- |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %sMR.404%s
- | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %swhatshapp %s082331072836%s
- |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sAnonymous%s
-                   |_| %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+  __  __ ___    ___                                   
+ |  \/  |   \  / __|_ __  __ _ _ __  _ __  ___ _ _ ___ %sAuthor by %MR.404/Muhammad Raihan%s
+ | |\/| | |) | \__ \ '_ \/ _` | '  \| '  \/ -_) '_(_-< %sGithub %sgithub.com/MR404cyber%s
+ |_|  |_|___/  |___/ .__/\__,_|_|_|_|_|_|_\___|_| /__/ %sTeam %sAnonymous Team%s
+                   |_|                                 %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
